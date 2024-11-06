@@ -100,5 +100,5 @@ This collection includes various mini-projects, each showcasing different intera
    ```bash
    git clone https://github.com/yourusername/Fun-Web-Projects-Collection.git
    ```
-2. Open the desired project folder and run `index.html` in your web browser.
+2. Open the desired project folder and run the html code in your web browser.
 3. Enjoy exploring each mini-project!
