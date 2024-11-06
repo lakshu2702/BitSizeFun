@@ -49,7 +49,9 @@ This collection includes various mini-projects, each showcasing different intera
 - Start a new game or draw more cards
 
 **Screenshot**:
-![Blackjack Game](Screenshots/BlackJackgame.png)
+![Blackjack Game](Screenshots/BlackJacks1.png)
+![Blackjack Game](Screenshots/BlackJacks2.png)
+
 
 **How to Play**:
 - Click **"Start Game"** to draw two initial cards.
