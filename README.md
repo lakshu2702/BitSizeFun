@@ -31,7 +31,6 @@ This collection includes various mini-projects, each showcasing different intera
 - Unique outcomes displayed on each click
 - Reset functionality to start fresh
 
-**Screenshot**:
 ![Emoji Fighter](Screenshots/EmojiFighter1.png)
 ![Emoji Fighter](Screenshots/EmojiFighter2.png)
 
@@ -48,7 +47,6 @@ This collection includes various mini-projects, each showcasing different intera
 - Intuitive UI with clear game messages
 - Start a new game or draw more cards
 
-**Screenshot**:
 ![Blackjack Game](Screenshots/BlackJacks1.png)
 ![Blackjack Game](Screenshots/BlackJacks2.png)
 
@@ -67,9 +65,10 @@ This collection includes various mini-projects, each showcasing different intera
 - Responsive design for various devices
 - Action buttons and a change link for plan modification
 
-**Screenshots**:
-- **Laptop View**: ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
-- **Mobile View**: ![Order Summary Mobile View](Screenshots/OrderSummary2.png)
+- **Laptop View**:
+  ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
+- **Mobile View**:
+   ![Order Summary Mobile View](Screenshots/OrderSummary2.png)
 
 ---
 
@@ -81,7 +80,6 @@ This collection includes various mini-projects, each showcasing different intera
 - Total count of pages read across all sessions
 - Display previous entries
 
-**Screenshot**:
 ![Reading Tracker](Screenshots/PageCounter.png)
 
 **Usage**:
