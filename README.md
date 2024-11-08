@@ -67,8 +67,6 @@ This collection includes various mini-projects, each showcasing different intera
 
 - **Laptop View**:
   ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
-- **Mobile View**:
-   ![Order Summary Mobile View](Screenshots/OrderSummary2.png)
 
 ---
 
