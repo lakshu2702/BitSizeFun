@@ -7,7 +7,7 @@ This repository contains a collection of simple yet fun web-based projects built
 ## Table of Contents
 - [Overview](#overview)
 - [Projects](#projects)
-  - [Emoji Fighter](#emoji-fighter)
+  - [1. Emoji Fighter](#emoji-fighter)
   - [Blackjack Game](#blackjack-game)
   - [Order Summary](#order-summary)
   - [Reading Tracker](#reading-tracker)
