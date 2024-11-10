@@ -1,4 +1,4 @@
-Here's the full README file with all the projects, formatted similarly:
+Here's the unified and consistent `README.md` for your repository:
 
 ---
 
@@ -15,9 +15,13 @@ This repository contains a collection of simple yet fun web-based projects built
   - [Blackjack Game](#blackjack-game)
   - [Order Summary](#order-summary)
   - [Reading Tracker](#reading-tracker)
-  - [Birthday Wisher](#birthday-wisher)
+  - [Birthday Date Collector](#birthday-date-collector)
   - [Chores List](#chores-list)
+  - [Scoreboard App](#scoreboard-app)
+  - [Random Password Generator](#random-password-generator)
 - [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -67,6 +71,7 @@ This collection includes various mini-projects, each showcasing different intera
 - Clean and modern UI
 - Action buttons and a change link for plan modification
 
+**Screenshots**:
 - **Laptop View**:
   ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
 
@@ -125,6 +130,39 @@ This collection includes various mini-projects, each showcasing different intera
 - Enter a chore description in the input field.
 - Click **"Add"** to add the chore to the list.
 - Double-click **"Delete All"** to remove all chores from the list.
+
+---
+
+### 7. Scoreboard App
+**Description**: A simple scoreboard app to track scores for two teams (Home and Guest). Users can increase the score by different values and reset the scores.
+
+**Features**:
+- Track scores for Home and Guest teams
+- Buttons to increase score by +1, +2, or +3 points
+- Reset button to reset both scores to zero
+- Responsive design with a clean UI
+
+![Scoreboard App](Screenshots/ScoreboardAp.png)
+
+**How to Use**:
+1. Click the **+1**, **+2**, or **+3** buttons to increase the score for the Home or Guest team.
+2. Click the **Reset** button to set both scores to zero.
+
+---
+
+### 8. Random Password Generator
+**Description**: This project generates two random passwords of 12 characters each, using a mix of uppercase letters, lowercase letters, digits, and special characters. The generated passwords are displayed on the webpage in real-time when the user clicks the "Generate Passwords" button.
+
+**Features**:
+- Generate two random, secure passwords with a click.
+- Passwords include uppercase, lowercase, digits, and special characters.
+
+**How It Works**:
+1. Clicking the **"Generate Passwords"** button triggers the `generatepass()` function.
+2. The function generates two passwords, each 12 characters long.
+3. The passwords are displayed in the webpage elements.
+
+![Scoreboard App](Screenshots/PasswordGen.png)
 
 ---
 
