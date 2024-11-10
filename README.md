@@ -13,7 +13,6 @@ This repository contains a collection of simple yet fun web-based projects built
   - [Reading Tracker](#reading-tracker)
   - [Birthday Wisher](#birthday-wisher)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
 
 ---
 
@@ -66,8 +65,6 @@ This collection includes various mini-projects, each showcasing different intera
 - **Laptop View**:
   ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
 
----
-
 ### 4. Reading Tracker
 **Description**: A simple web app to track the number of pages read. Users can increment the page count, save their progress, and view previous entries.
 
@@ -112,13 +109,3 @@ This collection includes various mini-projects, each showcasing different intera
 - **CSS3**: For styling and responsive design
 - **JavaScript**: For interactivity and game logic
 - **Firebase Realtime Database**: For storing and retrieving user data
-
----
-
-## Setup Instructions
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Fun-Web-Projects-Collection.git
-   ```
-2. Open the desired project folder and run the HTML code in your web browser.
-3. Enjoy exploring each mini-project!
