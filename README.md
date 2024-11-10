@@ -7,7 +7,7 @@ This repository contains a collection of simple yet fun web-based projects built
 ## Table of Contents
 - [Overview](#overview)
 - [Projects](#projects)
-  - [1. Emoji Fighter](#emoji-fighter)
+  - [Emoji Fighter](#emoji-fighter)
   - [Blackjack Game](#blackjack-game)
   - [Order Summary](#order-summary)
   - [Reading Tracker](#reading-tracker)
@@ -35,7 +35,7 @@ This collection includes various mini-projects, each showcasing different intera
 
 **How to Play**:
 - Click **"Pick Fighters!"** to generate two random emoji fighters.
-  
+
 ---
 
 ### 2. Blackjack Game
@@ -64,6 +64,8 @@ This collection includes various mini-projects, each showcasing different intera
 
 - **Laptop View**:
   ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
+
+---
 
 ### 4. Reading Tracker
 **Description**: A simple web app to track the number of pages read. Users can increment the page count, save their progress, and view previous entries.
