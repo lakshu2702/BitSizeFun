@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Calibri, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(images/bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.order-summary-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.order-summary-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.order-summary-card h1 {
+    font-weight:bolder;
+    font-size: 30px;
+    margin-top: 20px;
+    color: #333;
+}
+
+.description .para {
+    width: 300px;
+    margin: 10px auto 20px;
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.header-image img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.details {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #e0f8ff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px auto;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    width: 90%;
+}
+
+.fas.fa-music {
+    color: rgb(163, 163, 163);
+    background-color: #666;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 26px;
+}
+
+.details-heading {
+    font-size: 20px;
+    color: #333;
+    margin: 0;
+}
+
+.plan-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.price {
+    color: #666;
+    font-size: 15px;
+    margin-top: 4px;
+}
+
+.change-link {
+    font-size: 0.9em;
+    color: #003874;
+    text-decoration: none;
+    margin-left: auto;
+}
+
+.change-link:hover {
+    text-decoration: underline;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.proceed {
+    background-color: #0057b4;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 650;
+    width: 85%;
+}
+
+.proceed:hover {
+    background-color: #042548;
+}
+
+.cancel {
+    color: grey;
+    font-weight: 650;
+    border: none;
+    padding: 10px;
+    width: 75%;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.cancel:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+@media (max-width: 797px){
+    .order-summary-card{
+        width: 70%;
+        height: 90%;
+    }
+
+    .description .para{
+        font-size: 14px;
+    }
+
+    .details{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .fas.fa-music{
+        margin-bottom: 10px;
+    }
+
+    .change-link{
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    .buttons{
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
