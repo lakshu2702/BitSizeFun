@@ -32,7 +32,6 @@ This collection includes various mini-projects, each showcasing different intera
 - Unique outcomes displayed on each click
 - Reset functionality to start fresh
 
-![Emoji Fighter](Screenshots/EmojiFighter1.png)
 ![Emoji Fighter](Screenshots/EmojiFighter2.png)
 
 **How to Play**:
