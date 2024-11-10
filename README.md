@@ -13,7 +13,6 @@ This repository contains a collection of simple yet fun web-based projects built
   - [Reading Tracker](#reading-tracker)
   - [Birthday Wisher](#birthday-wisher)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
 
 ---
 
@@ -36,7 +35,7 @@ This collection includes various mini-projects, each showcasing different intera
 
 **How to Play**:
 - Click **"Pick Fighters!"** to generate two random emoji fighters.
-  
+
 ---
 
 ### 2. Blackjack Game
@@ -112,13 +111,3 @@ This collection includes various mini-projects, each showcasing different intera
 - **CSS3**: For styling and responsive design
 - **JavaScript**: For interactivity and game logic
 - **Firebase Realtime Database**: For storing and retrieving user data
-
----
-
-## Setup Instructions
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/Fun-Web-Projects-Collection.git
-   ```
-2. Open the desired project folder and run the HTML code in your web browser.
-3. Enjoy exploring each mini-project!
