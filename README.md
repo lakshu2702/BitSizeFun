@@ -1,3 +1,7 @@
+Here's the full README file with all the projects, formatted similarly:
+
+---
+
 # Fun Web Projects Collection 🌐
 
 This repository contains a collection of simple yet fun web-based projects built using HTML, CSS, and JavaScript. Each project is designed to demonstrate basic programming concepts and provide an engaging user experience.
@@ -12,6 +16,7 @@ This repository contains a collection of simple yet fun web-based projects built
   - [Order Summary](#order-summary)
   - [Reading Tracker](#reading-tracker)
   - [Birthday Wisher](#birthday-wisher)
+  - [Chores List](#chores-list)
 - [Technologies Used](#technologies-used)
 
 ---
@@ -103,6 +108,23 @@ This collection includes various mini-projects, each showcasing different intera
 **Firebase Setup**:
 1. Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
 2. Set up Firebase Realtime Database and get the URL for the `databaseURL` field in the `firebaseConfig` object.
+
+---
+
+### 6. Chores List
+**Description**: A simple web app to manage chores, where users can add chores to a list and delete all items with a double-click.
+
+**Features**:
+- Add chores to the list.
+- Delete all chores with a double-click on the "Delete All" button.
+- Firebase integration for storing and retrieving chore data.
+
+![Chores List](Screenshots/ChoresList.png)
+
+**How to Use**:
+- Enter a chore description in the input field.
+- Click **"Add"** to add the chore to the list.
+- Double-click **"Delete All"** to remove all chores from the list.
 
 ---
 
