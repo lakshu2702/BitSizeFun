@@ -1,4 +1,4 @@
-Here's the full README file with all the projects, formatted similarly:
+Here's the updated and complete `README.md` file with your requested format:
 
 ---
 
@@ -15,9 +15,12 @@ This repository contains a collection of simple yet fun web-based projects built
   - [Blackjack Game](#blackjack-game)
   - [Order Summary](#order-summary)
   - [Reading Tracker](#reading-tracker)
-  - [Birthday Wisher](#birthday-wisher)
+  - [Birthday Date Collector](#birthday-date-collector)
   - [Chores List](#chores-list)
+  - [Scoreboard App](#scoreboard-app)
 - [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -67,6 +70,7 @@ This collection includes various mini-projects, each showcasing different intera
 - Clean and modern UI
 - Action buttons and a change link for plan modification
 
+**Screenshots**:
 - **Laptop View**:
   ![Order Summary Laptop View](Screenshots/OrderSummary1.png)
 
@@ -127,6 +131,21 @@ This collection includes various mini-projects, each showcasing different intera
 - Double-click **"Delete All"** to remove all chores from the list.
 
 ---
+
+### 7. Scoreboard App
+**Description**: A simple scoreboard app to track scores for two teams (Home and Guest). Users can increase the score by different values and reset the scores.
+
+**Features**:
+- Track scores for Home and Guest teams
+- Buttons to increase score by +1, +2, or +3 points
+- Reset button to reset both scores to zero
+- Responsive design with a clean UI
+
+![Scoreboard App](Screenshots/ScoreboardApp.png)
+
+**How to Use**:
+1. Click the **+1**, **+2**, or **+3** buttons to increase the score for the Home or Guest team.
+2. Click the **Reset** button to set both scores to zero.
 
 ## Technologies Used
 - **HTML5**: For structure and layout
